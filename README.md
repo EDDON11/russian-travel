@@ -4,7 +4,7 @@
 * Grid layout 
 * Flexbox
 * Медиазапросы
-* *html/css*
+* html/css
 
 * [Сайт Путешествия по России](https://eddon11.github.io/russian-travel/index.html)
 
