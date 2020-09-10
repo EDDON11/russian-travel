@@ -1,4 +1,4 @@
-.place__container {
+.place__paragraph_container {
 
     max-width: 484px;
     
@@ -10,7 +10,7 @@
 @media screen and (max-width: 320px) {
 
 
-.place__container {
+.place__paragraph_container {
     max-width: 288px;
     margin: auto;
 
@@ -22,7 +22,7 @@
 
 @media screen and (max-width: 679px) {
 
-  .place__container {
+  .place__paragraph_container {
     padding-left: 16px;
   }
     }
@@ -30,7 +30,7 @@
 
 @media screen and (max-width: 679px) {
 
-      .place__container {
+      .place__paragraph_container {
    padding-left: 0;
       }
         }

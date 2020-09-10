@@ -16,12 +16,7 @@
     transition: opacity ease-out 0.7s;
   }
 
-  @media screen and (max-width: 767px) {
-    .footer__links {
-      flex-direction: column;
-      align-items: flex-start;
-      }
-    }  
+
 
 
     @media screen and (max-width: 720px) {

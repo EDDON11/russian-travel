@@ -4,6 +4,10 @@
 @import url(./__lists/intro__lists.css);
 @import url(./__span/intro__span.css);
 
+
+
+
+
 .intro {
   
     width: 77%;
@@ -28,9 +32,8 @@
     @media screen and (max-width: 768px) {
 
         .intro {
-
-        max-width: 94%;
-        margin: 64px auto;
+        max-width: 90%;
+        margin: 88px 0 88px 24px;
         }
 
     }
@@ -45,7 +48,16 @@
 
     }
 
+    @media screen and (max-width: 320px) {
+
+        .intro {
+            margin: 64px auto 64px;
+        }
+        }
+
+
+    }
 
 
 
-   
+
